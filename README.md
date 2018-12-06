@@ -1,2 +1,2 @@
-# jingga
-open source java program
+# jingga project
+open source java program by rzlco
